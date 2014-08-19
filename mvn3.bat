@@ -1,5 +1,6 @@
 @echo off
 rem : Maven 3 script
+rem Written - Use Maven 2 and Maven 3 on the same machine
 
 rem set OLDM2_HOME=%M2_HOME%
 set M2_HOME=C:\Dev\apps\maven-3.0.3
